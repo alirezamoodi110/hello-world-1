@@ -1,4 +1,6 @@
-max = min = 0
+max = 0
+min = 1000
+
 def inputoutput():
     max = input('Enter a number : ')
     min = input('Enter another number : ')
